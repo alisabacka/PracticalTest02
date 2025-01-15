@@ -1,2 +1,4 @@
 # PracticalTest02
-Colocviu 2
+Nume: Backa
+Prenume: Alisa
+Grupa: 342C2
